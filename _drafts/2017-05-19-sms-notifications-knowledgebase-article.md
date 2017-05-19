@@ -2,7 +2,7 @@
 ID: 29
 post_title: 'SMS Notifications &#8211; Knowledgebase Article'
 author: ng23055
-post_date: 2017-05-19 15:58:35
+post_date: 2017-05-19 15:59:07
 post_excerpt: ""
 layout: post
 permalink: >
