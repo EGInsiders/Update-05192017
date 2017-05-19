@@ -1,6 +1,6 @@
-# Summary
+# Contents
 
-* Introduction
+* [Cover](README.md)
 
 ##News
 * [CHANGES TO STRUCTURE AND COMMUNICATION](_chapters/chapter-1.md)
