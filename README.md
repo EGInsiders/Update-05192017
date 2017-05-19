@@ -1,1 +1,8 @@
-# Update-05192017
+# EduGuide Insiders Update
+
+## May 19, 2017
+
+## 
+
+
+
